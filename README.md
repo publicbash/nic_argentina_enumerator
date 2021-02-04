@@ -1,4 +1,4 @@
-# bash
+# Deprecated
 CyberSecurity
 Scripts from the OpenBash IDE
 http://www.openbash.com
