@@ -1,8 +1,4 @@
 # Deprecated
-CyberSecurity
-Scripts from the OpenBash IDE
-http://www.openbash.com
-
 
 Simple Nic.Ar domains enumeration tool.
 
