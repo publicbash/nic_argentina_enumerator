@@ -1,7 +1,5 @@
 #!/bin/bash
 #nic.ar Enumerator
-#http://www.bash.com.ar
-#Author: Mariano Somoza
 #globals
 function enumerateFromJson(){
     let DATE=$(date +%Y%m%d)
